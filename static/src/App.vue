@@ -48,6 +48,12 @@ import { RouterLink, RouterView, useRouter } from 'vue-router'
           </a-menu-item>
         </a-sub-menu>
       </a-menu>
+      <div style="padding: 16px; color: var(--color-text-3); font-size: 12px;">
+        <a href="#" style="color: var(--color-text-3);">技术支持微信：qrecyc</a><br>
+        <a href="mailto:qiuyurs@163.com" style="color: var(--color-text-3);">技术支持邮箱：qiuyurs@163.com</a><br>
+        <a href="https://github.com/qiuyurs/ModelS_Eval" target="_blank" style="color: var(--color-text-3);">GitHub</a>
+        <a href="https://gwl1554ppni.feishu.cn/wiki/Z3t1w1514ix81AkeQirceTp6nww" target="_blank" style="color: var(--color-text-3);">帮助文档</a>
+      </div>
     </a-col>
     <a-col :span="1">
     </a-col>
